@@ -4,17 +4,16 @@
     <title>Microsoft Azure on Harry Lee</title>
     <link>https://harrylee.me/categories/microsoft-azure/</link>
     <description>Recent content in Microsoft Azure on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2016 16:05:02 +0000</lastBuildDate><atom:link href="https://harrylee.me/categories/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2016 16:05:02 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/categories/microsoft-azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Docker Swarm with Docker Machine Quick Setup Guide</title>
       <link>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</link>
       <pubDate>Tue, 23 Aug 2016 16:05:02 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</guid>
-      <description>Docker already has an official documentation with tutorials and examples on how to go about setting up your own Docker Swarm nodes and cluster. This post is intended for those who have a fundamental grasp on Docker and are too lazy to read the documents. This post includes minimal explanation and focuses primarily on the configuration. It is written to be a series of instructions rather than a full fledged post.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Docker&lt;/strong&gt; already has an &lt;a href=&#34;https://docs.docker.com/swarm/&#34;&gt;official documentation&lt;/a&gt; with tutorials and examples on how to go about setting up your own &lt;strong&gt;Docker Swarm&lt;/strong&gt; nodes and cluster. This post is intended for those who have a fundamental grasp on &lt;strong&gt;Docker&lt;/strong&gt; and are too lazy to read the documents. This post includes &lt;strong&gt;minimal explanation&lt;/strong&gt; and focuses primarily on the configuration. It is written to be a series of &lt;em&gt;instructions&lt;/em&gt; rather than a full fledged &lt;em&gt;post&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

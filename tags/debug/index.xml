@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>debug on Harry Lee</title>
+    <title>Debug on Harry Lee</title>
     <link>https://harrylee.me/tags/debug/</link>
-    <description>Recent content in debug on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Debug on Harry Lee</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jun 2016 18:54:58 +0000</lastBuildDate><atom:link href="https://harrylee.me/tags/debug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2016 18:54:58 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/tags/debug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: How to use PhpStorm to debug remote Docker container for Web Development using Xdebug</title>
       <link>https://harrylee.me/blog/2016-06-20-how-to-use-phpstorm-to-debug-remote-docker-container/</link>
       <pubDate>Mon, 20 Jun 2016 18:54:58 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-20-how-to-use-phpstorm-to-debug-remote-docker-container/</guid>
-      <description>There are many tools that can be used for debugging when developing a web app using PHP. These debugging tools are very useful in a local development environment, you can view the states of variables, indicate line breaks etc. However, these tools become difficult to use when you decide to include Docker in your workflow.
-This post outlines the configuration needed to incorporate the debugging power of the PhpStorm IDE to your PHP based web app.</description>
+      <description>&lt;p&gt;There are many tools that can be used for debugging when developing a &lt;em&gt;web app&lt;/em&gt; using &lt;strong&gt;PHP&lt;/strong&gt;. These debugging tools are very useful in a local development environment, you can view the &lt;strong&gt;states of variables&lt;/strong&gt;, &lt;strong&gt;indicate line breaks&lt;/strong&gt; etc. However, these tools become difficult to use when you decide to include &lt;a href=&#34;https://www.docker.com&#34;&gt;&lt;strong&gt;Docker&lt;/strong&gt;&lt;/a&gt; in your workflow.&lt;/p&gt;&#xA;&lt;p&gt;This post outlines the configuration needed to incorporate the debugging power of the &lt;a href=&#34;https://www.jetbrains.com/phpstorm/&#34;&gt;&lt;strong&gt;PhpStorm&lt;/strong&gt;&lt;/a&gt; IDE to your &lt;strong&gt;PHP&lt;/strong&gt; based &lt;em&gt;web app&lt;/em&gt;. We will not be using the official &lt;a href=&#34;https://blog.jetbrains.com/phpstorm/2015/10/docker-support-in-phpstorm/&#34;&gt;Docker Support in PhpStorm&lt;/a&gt;. This is because we are not integrating &lt;strong&gt;PhpStorm&lt;/strong&gt; fully with &lt;strong&gt;Docker&lt;/strong&gt;, we are merely using &lt;strong&gt;PhpStorm&lt;/strong&gt; for &lt;strong&gt;debugging&lt;/strong&gt; purposes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

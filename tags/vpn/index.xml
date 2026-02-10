@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vpn on Harry Lee</title>
+    <title>Vpn on Harry Lee</title>
     <link>https://harrylee.me/tags/vpn/</link>
-    <description>Recent content in vpn on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Vpn on Harry Lee</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2016 10:25:14 +0000</lastBuildDate><atom:link href="https://harrylee.me/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2016 10:22:23 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Create your own IPsec/L2TP VPN container</title>
       <link>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</link>
       <pubDate>Sat, 25 Jun 2016 10:25:14 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</guid>
-      <description>To configure your own VPN hosted on your own VPS is not difficult at all, especially when there are numerous configuration scripts lying around the internet. We will set up such a VPN using Docker hosted on a Microsoft Azure VM.
-Set Up Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!</description>
+      <description>&lt;p&gt;To configure your own &lt;strong&gt;VPN&lt;/strong&gt; hosted on your own &lt;strong&gt;VPS&lt;/strong&gt; is not difficult at all, especially when there are &lt;a href=&#34;https://github.com/hwdsl2/setup-ipsec-vpn&#34;&gt;numerous configuration scripts&lt;/a&gt; lying around the internet. We will set up such a &lt;strong&gt;VPN&lt;/strong&gt; using &lt;strong&gt;Docker&lt;/strong&gt; hosted on a &lt;strong&gt;Microsoft Azure VM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h2 id=&#34;set-up&#34;&gt;Set Up&lt;/h2&gt;&#xA;&lt;p&gt;Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

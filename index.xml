@@ -4,100 +4,72 @@
     <title>Harry Lee</title>
     <link>https://harrylee.me/</link>
     <description>Recent content on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://harrylee.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git: Simplified GitFlow</title>
       <link>https://harrylee.me/blog/2017-05-29-git-simplified-gitflow/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2017-05-29-git-simplified-gitflow/</guid>
       <description>&lt;p&gt;This post describes a simplified &lt;strong&gt;Git&lt;/strong&gt; branching strategy to software versioning and release. This strategy is a slightly simplified version of &lt;a href=&#34;https://datasift.github.io/gitflow/IntroducingGitFlow.html&#34;&gt;GitFLow&lt;/a&gt;. This strategy does not contradict &lt;strong&gt;GitFlow&lt;/strong&gt; in terms of software development (you can still use &lt;em&gt;feature/*&lt;/em&gt; branches), but rather a slight deviation on the release side of &lt;strong&gt;GitFlow&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Docker: Docker Swarm with Docker Machine Quick Setup Guide</title>
       <link>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</link>
       <pubDate>Tue, 23 Aug 2016 16:05:02 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</guid>
-      <description>Docker already has an official documentation with tutorials and examples on how to go about setting up your own Docker Swarm nodes and cluster. This post is intended for those who have a fundamental grasp on Docker and are too lazy to read the documents. This post includes minimal explanation and focuses primarily on the configuration. It is written to be a series of instructions rather than a full fledged post.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Docker&lt;/strong&gt; already has an &lt;a href=&#34;https://docs.docker.com/swarm/&#34;&gt;official documentation&lt;/a&gt; with tutorials and examples on how to go about setting up your own &lt;strong&gt;Docker Swarm&lt;/strong&gt; nodes and cluster. This post is intended for those who have a fundamental grasp on &lt;strong&gt;Docker&lt;/strong&gt; and are too lazy to read the documents. This post includes &lt;strong&gt;minimal explanation&lt;/strong&gt; and focuses primarily on the configuration. It is written to be a series of &lt;em&gt;instructions&lt;/em&gt; rather than a full fledged &lt;em&gt;post&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Docker: Create your own IPsec/L2TP VPN container</title>
       <link>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</link>
       <pubDate>Sat, 25 Jun 2016 10:25:14 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</guid>
-      <description>To configure your own VPN hosted on your own VPS is not difficult at all, especially when there are numerous configuration scripts lying around the internet. We will set up such a VPN using Docker hosted on a Microsoft Azure VM.
-Set Up Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!</description>
+      <description>&lt;p&gt;To configure your own &lt;strong&gt;VPN&lt;/strong&gt; hosted on your own &lt;strong&gt;VPS&lt;/strong&gt; is not difficult at all, especially when there are &lt;a href=&#34;https://github.com/hwdsl2/setup-ipsec-vpn&#34;&gt;numerous configuration scripts&lt;/a&gt; lying around the internet. We will set up such a &lt;strong&gt;VPN&lt;/strong&gt; using &lt;strong&gt;Docker&lt;/strong&gt; hosted on a &lt;strong&gt;Microsoft Azure VM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h2 id=&#34;set-up&#34;&gt;Set Up&lt;/h2&gt;&#xA;&lt;p&gt;Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Docker: How to use PhpStorm to debug remote Docker container for Web Development using Xdebug</title>
       <link>https://harrylee.me/blog/2016-06-20-how-to-use-phpstorm-to-debug-remote-docker-container/</link>
       <pubDate>Mon, 20 Jun 2016 18:54:58 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-20-how-to-use-phpstorm-to-debug-remote-docker-container/</guid>
-      <description>There are many tools that can be used for debugging when developing a web app using PHP. These debugging tools are very useful in a local development environment, you can view the states of variables, indicate line breaks etc. However, these tools become difficult to use when you decide to include Docker in your workflow.
-This post outlines the configuration needed to incorporate the debugging power of the PhpStorm IDE to your PHP based web app.</description>
+      <description>&lt;p&gt;There are many tools that can be used for debugging when developing a &lt;em&gt;web app&lt;/em&gt; using &lt;strong&gt;PHP&lt;/strong&gt;. These debugging tools are very useful in a local development environment, you can view the &lt;strong&gt;states of variables&lt;/strong&gt;, &lt;strong&gt;indicate line breaks&lt;/strong&gt; etc. However, these tools become difficult to use when you decide to include &lt;a href=&#34;https://www.docker.com&#34;&gt;&lt;strong&gt;Docker&lt;/strong&gt;&lt;/a&gt; in your workflow.&lt;/p&gt;&#xA;&lt;p&gt;This post outlines the configuration needed to incorporate the debugging power of the &lt;a href=&#34;https://www.jetbrains.com/phpstorm/&#34;&gt;&lt;strong&gt;PhpStorm&lt;/strong&gt;&lt;/a&gt; IDE to your &lt;strong&gt;PHP&lt;/strong&gt; based &lt;em&gt;web app&lt;/em&gt;. We will not be using the official &lt;a href=&#34;https://blog.jetbrains.com/phpstorm/2015/10/docker-support-in-phpstorm/&#34;&gt;Docker Support in PhpStorm&lt;/a&gt;. This is because we are not integrating &lt;strong&gt;PhpStorm&lt;/strong&gt; fully with &lt;strong&gt;Docker&lt;/strong&gt;, we are merely using &lt;strong&gt;PhpStorm&lt;/strong&gt; for &lt;strong&gt;debugging&lt;/strong&gt; purposes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SSL: How to generate free SSL certificates with Certbot (Let&#39;s Encrypt)</title>
       <link>https://harrylee.me/blog/2016-05-31-ssl-how-to-generate-free-ssl-certificates-with-certbot-let-s-encrypt/</link>
       <pubDate>Tue, 31 May 2016 18:01:55 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-05-31-ssl-how-to-generate-free-ssl-certificates-with-certbot-let-s-encrypt/</guid>
-      <description>Don&amp;rsquo;t know how to configure SSL certificate? Just started learning about how to deploy your own secure website but don&amp;rsquo;t want to spend money purchasing a SSL certificate? Let&amp;rsquo;s Encrypt (now Certbot) is here to save the day!
-Background Let’s Encrypt is a free, automated, and open Certificate Authority.
-Let&amp;rsquo;s Encrypt is an official Certificate Authority. This means that the SSL certificate provided/generated by Let&amp;rsquo;s Encrypt is recognised by all browsers as being legitimate.</description>
+      <description>&lt;p&gt;Don&amp;rsquo;t know how to configure SSL certificate? Just started learning about how to deploy your own secure website but don&amp;rsquo;t want to spend money purchasing a SSL certificate? Let&amp;rsquo;s Encrypt (now Certbot) is here to save the day!&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Let’s Encrypt is a &lt;strong&gt;free&lt;/strong&gt;, &lt;strong&gt;automated&lt;/strong&gt;, and &lt;strong&gt;open&lt;/strong&gt; Certificate Authority.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Let&amp;rsquo;s Encrypt&lt;/strong&gt; is an official &lt;em&gt;Certificate Authority&lt;/em&gt;. This means that the &lt;strong&gt;SSL&lt;/strong&gt; certificate provided/generated by &lt;strong&gt;Let&amp;rsquo;s Encrypt&lt;/strong&gt; is recognised by all browsers as being legitimate. This is different from &lt;strong&gt;self-signed&lt;/strong&gt; certificates which do not fly if you want &lt;strong&gt;HTTPS&lt;/strong&gt; enabled for your publicly accessible website.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu: Backup files regularly using expect, rsync and Cron</title>
       <link>https://harrylee.me/blog/2016-05-24-ubuntu-backup-files-regularly-using-rsync-and-cron/</link>
       <pubDate>Tue, 24 May 2016 16:07:47 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-05-24-ubuntu-backup-files-regularly-using-rsync-and-cron/</guid>
-      <description>Want to backup your remote files at regular intervals? This post is for you.
-This post focuses on: rsync, expect and cron. To access the remote server, I&amp;rsquo;m assuming that you are using ssh (with password authentication) for that. If you use ftp or other protocols, you will have to tweak the instructions a bit. If you are using SSH with public key (well done!), you will have to tweak the rsync command to use public key.</description>
+      <description>&lt;p&gt;Want to backup your remote files at regular intervals? This post is for you.&lt;/p&gt;&#xA;&lt;p&gt;This post focuses on: &lt;code&gt;rsync&lt;/code&gt;, &lt;code&gt;expect&lt;/code&gt; and &lt;code&gt;cron&lt;/code&gt;. To access the remote server, I&amp;rsquo;m assuming that you are using &lt;code&gt;ssh&lt;/code&gt; (with password authentication) for that. If you use &lt;code&gt;ftp&lt;/code&gt; or other protocols, you will have to tweak the instructions a bit. If you are using &lt;em&gt;SSH&lt;/em&gt; with public key (well done!), you will have to tweak the &lt;strong&gt;rsync&lt;/strong&gt; command to use public key.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu: Suspend and reboot at specific times using Cron</title>
       <link>https://harrylee.me/blog/2015-02-08-ubuntu-suspend-and-reboot-at-specific-times-using-cron/</link>
       <pubDate>Sun, 08 Feb 2015 20:13:47 +0200</pubDate>
-      
       <guid>https://harrylee.me/blog/2015-02-08-ubuntu-suspend-and-reboot-at-specific-times-using-cron/</guid>
-      <description>If you have a server at home and you want it to be on only during specific times and not 24/7, this script is for you.
-Cron not only is the best tool for this, it also handles scheduled tasks.
-Cron is a system daemon used to execute desired tasks (in the background) at designated times.
-Method Install Cron on Ubuntu if it is not already installed.
-Create a new file, suspend_until, in your ~/Documents/ and place the following contents in it.</description>
+      <description>&lt;p&gt;If you have a server at home and you want it to be on &lt;strong&gt;only during specific times&lt;/strong&gt; and not 24/7, this script is for you.&lt;/p&gt;&#xA;&lt;p&gt;Cron not only is the best tool for this, it also handles scheduled tasks.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Cron is a system daemon used to execute desired tasks (in the background) at designated times.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;method&#34;&gt;Method&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install&lt;/strong&gt; &lt;em&gt;Cron&lt;/em&gt; on Ubuntu if it is not already installed.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu: Sharing externally connected drives over network</title>
       <link>https://harrylee.me/blog/2015-01-10-ubuntu-sharing-externally-connected-drives-over-network/</link>
       <pubDate>Sat, 10 Jan 2015 14:29:59 +0200</pubDate>
-      
       <guid>https://harrylee.me/blog/2015-01-10-ubuntu-sharing-externally-connected-drives-over-network/</guid>
-      <description>When you have external drives connected to the server, it would be very useful if you can share these drives to users accessing the server as well. This is useful if you have a home media server with externally connected drives.
-This post aims to share drives that are NTFS formatted and changing the permissions of the mounted drives.
-Method Unmount the drive that is connected already and remount to another folder giving permissions to users.</description>
+      <description>&lt;p&gt;When you have external drives connected to the server, it would be very &lt;strong&gt;useful&lt;/strong&gt; if you can &lt;strong&gt;share these drives&lt;/strong&gt; to &lt;em&gt;users&lt;/em&gt; accessing the server as well. This is useful if you have a home media server with externally connected drives.&lt;/p&gt;&#xA;&lt;p&gt;This post aims to &lt;strong&gt;share drives&lt;/strong&gt; that are NTFS formatted and changing the permissions of the mounted drives.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h3 id=&#34;method&#34;&gt;Method&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unmount the drive&lt;/strong&gt; that is connected already and &lt;strong&gt;remount&lt;/strong&gt; to another folder giving permissions to users.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://harrylee.me/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://harrylee.me/cv/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

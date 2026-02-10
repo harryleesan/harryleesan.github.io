@@ -1,40 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>docker on Harry Lee</title>
+    <title>Docker on Harry Lee</title>
     <link>https://harrylee.me/tags/docker/</link>
-    <description>Recent content in docker on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Docker on Harry Lee</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2016 16:05:02 +0000</lastBuildDate><atom:link href="https://harrylee.me/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2016 10:22:23 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Docker Swarm with Docker Machine Quick Setup Guide</title>
       <link>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</link>
       <pubDate>Tue, 23 Aug 2016 16:05:02 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</guid>
-      <description>Docker already has an official documentation with tutorials and examples on how to go about setting up your own Docker Swarm nodes and cluster. This post is intended for those who have a fundamental grasp on Docker and are too lazy to read the documents. This post includes minimal explanation and focuses primarily on the configuration. It is written to be a series of instructions rather than a full fledged post.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Docker&lt;/strong&gt; already has an &lt;a href=&#34;https://docs.docker.com/swarm/&#34;&gt;official documentation&lt;/a&gt; with tutorials and examples on how to go about setting up your own &lt;strong&gt;Docker Swarm&lt;/strong&gt; nodes and cluster. This post is intended for those who have a fundamental grasp on &lt;strong&gt;Docker&lt;/strong&gt; and are too lazy to read the documents. This post includes &lt;strong&gt;minimal explanation&lt;/strong&gt; and focuses primarily on the configuration. It is written to be a series of &lt;em&gt;instructions&lt;/em&gt; rather than a full fledged &lt;em&gt;post&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Docker: Create your own IPsec/L2TP VPN container</title>
       <link>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</link>
       <pubDate>Sat, 25 Jun 2016 10:25:14 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</guid>
-      <description>To configure your own VPN hosted on your own VPS is not difficult at all, especially when there are numerous configuration scripts lying around the internet. We will set up such a VPN using Docker hosted on a Microsoft Azure VM.
-Set Up Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!</description>
+      <description>&lt;p&gt;To configure your own &lt;strong&gt;VPN&lt;/strong&gt; hosted on your own &lt;strong&gt;VPS&lt;/strong&gt; is not difficult at all, especially when there are &lt;a href=&#34;https://github.com/hwdsl2/setup-ipsec-vpn&#34;&gt;numerous configuration scripts&lt;/a&gt; lying around the internet. We will set up such a &lt;strong&gt;VPN&lt;/strong&gt; using &lt;strong&gt;Docker&lt;/strong&gt; hosted on a &lt;strong&gt;Microsoft Azure VM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h2 id=&#34;set-up&#34;&gt;Set Up&lt;/h2&gt;&#xA;&lt;p&gt;Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Docker: How to use PhpStorm to debug remote Docker container for Web Development using Xdebug</title>
       <link>https://harrylee.me/blog/2016-06-20-how-to-use-phpstorm-to-debug-remote-docker-container/</link>
       <pubDate>Mon, 20 Jun 2016 18:54:58 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-20-how-to-use-phpstorm-to-debug-remote-docker-container/</guid>
-      <description>There are many tools that can be used for debugging when developing a web app using PHP. These debugging tools are very useful in a local development environment, you can view the states of variables, indicate line breaks etc. However, these tools become difficult to use when you decide to include Docker in your workflow.
-This post outlines the configuration needed to incorporate the debugging power of the PhpStorm IDE to your PHP based web app.</description>
+      <description>&lt;p&gt;There are many tools that can be used for debugging when developing a &lt;em&gt;web app&lt;/em&gt; using &lt;strong&gt;PHP&lt;/strong&gt;. These debugging tools are very useful in a local development environment, you can view the &lt;strong&gt;states of variables&lt;/strong&gt;, &lt;strong&gt;indicate line breaks&lt;/strong&gt; etc. However, these tools become difficult to use when you decide to include &lt;a href=&#34;https://www.docker.com&#34;&gt;&lt;strong&gt;Docker&lt;/strong&gt;&lt;/a&gt; in your workflow.&lt;/p&gt;&#xA;&lt;p&gt;This post outlines the configuration needed to incorporate the debugging power of the &lt;a href=&#34;https://www.jetbrains.com/phpstorm/&#34;&gt;&lt;strong&gt;PhpStorm&lt;/strong&gt;&lt;/a&gt; IDE to your &lt;strong&gt;PHP&lt;/strong&gt; based &lt;em&gt;web app&lt;/em&gt;. We will not be using the official &lt;a href=&#34;https://blog.jetbrains.com/phpstorm/2015/10/docker-support-in-phpstorm/&#34;&gt;Docker Support in PhpStorm&lt;/a&gt;. This is because we are not integrating &lt;strong&gt;PhpStorm&lt;/strong&gt; fully with &lt;strong&gt;Docker&lt;/strong&gt;, we are merely using &lt;strong&gt;PhpStorm&lt;/strong&gt; for &lt;strong&gt;debugging&lt;/strong&gt; purposes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

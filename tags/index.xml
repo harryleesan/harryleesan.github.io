@@ -4,98 +4,79 @@
     <title>Tags on Harry Lee</title>
     <link>https://harrylee.me/tags/</link>
     <description>Recent content in Tags on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://harrylee.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>git</title>
+      <title>Git</title>
       <link>https://harrylee.me/tags/git/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/git/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>azure</title>
+      <title>Azure</title>
       <link>https://harrylee.me/tags/azure/</link>
       <pubDate>Tue, 23 Aug 2016 16:05:02 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/azure/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>docker</title>
+      <title>Docker</title>
       <link>https://harrylee.me/tags/docker/</link>
       <pubDate>Tue, 23 Aug 2016 16:05:02 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>network</title>
+      <title>Network</title>
       <link>https://harrylee.me/tags/network/</link>
       <pubDate>Sat, 25 Jun 2016 10:25:14 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/network/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vpn</title>
+      <title>Vpn</title>
       <link>https://harrylee.me/tags/vpn/</link>
       <pubDate>Sat, 25 Jun 2016 10:25:14 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/vpn/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>debug</title>
+      <title>Debug</title>
       <link>https://harrylee.me/tags/debug/</link>
       <pubDate>Mon, 20 Jun 2016 18:54:58 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/debug/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>phpstorm</title>
+      <title>Phpstorm</title>
       <link>https://harrylee.me/tags/phpstorm/</link>
       <pubDate>Mon, 20 Jun 2016 18:54:58 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/phpstorm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>certbot</title>
+      <title>Certbot</title>
       <link>https://harrylee.me/tags/certbot/</link>
       <pubDate>Tue, 31 May 2016 18:01:55 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/certbot/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ssl</title>
+      <title>Ssl</title>
       <link>https://harrylee.me/tags/ssl/</link>
       <pubDate>Tue, 31 May 2016 18:01:55 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/ssl/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ubuntu</title>
+      <title>Ubuntu</title>
       <link>https://harrylee.me/tags/ubuntu/</link>
       <pubDate>Tue, 24 May 2016 16:07:47 +0000</pubDate>
-      
       <guid>https://harrylee.me/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

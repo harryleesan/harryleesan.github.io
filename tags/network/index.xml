@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>network on Harry Lee</title>
+    <title>Network on Harry Lee</title>
     <link>https://harrylee.me/tags/network/</link>
-    <description>Recent content in network on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Network on Harry Lee</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jun 2016 10:25:14 +0000</lastBuildDate><atom:link href="https://harrylee.me/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2016 10:22:23 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker: Create your own IPsec/L2TP VPN container</title>
       <link>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</link>
       <pubDate>Sat, 25 Jun 2016 10:25:14 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2016-06-25-docker-create-your-own-ipsec-l2tp-vpn-container/</guid>
-      <description>To configure your own VPN hosted on your own VPS is not difficult at all, especially when there are numerous configuration scripts lying around the internet. We will set up such a VPN using Docker hosted on a Microsoft Azure VM.
-Set Up Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!</description>
+      <description>&lt;p&gt;To configure your own &lt;strong&gt;VPN&lt;/strong&gt; hosted on your own &lt;strong&gt;VPS&lt;/strong&gt; is not difficult at all, especially when there are &lt;a href=&#34;https://github.com/hwdsl2/setup-ipsec-vpn&#34;&gt;numerous configuration scripts&lt;/a&gt; lying around the internet. We will set up such a &lt;strong&gt;VPN&lt;/strong&gt; using &lt;strong&gt;Docker&lt;/strong&gt; hosted on a &lt;strong&gt;Microsoft Azure VM&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h2 id=&#34;set-up&#34;&gt;Set Up&lt;/h2&gt;&#xA;&lt;p&gt;Listed below is my set up. You don&amp;rsquo;t have to use the exact set up as me, as the configurations should be the same with any VM (Virtual Machine) running Docker (that&amp;rsquo;s the beauty of Docker!).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu: Sharing externally connected drives over network</title>
       <link>https://harrylee.me/blog/2015-01-10-ubuntu-sharing-externally-connected-drives-over-network/</link>
       <pubDate>Sat, 10 Jan 2015 14:29:59 +0200</pubDate>
-      
       <guid>https://harrylee.me/blog/2015-01-10-ubuntu-sharing-externally-connected-drives-over-network/</guid>
-      <description>When you have external drives connected to the server, it would be very useful if you can share these drives to users accessing the server as well. This is useful if you have a home media server with externally connected drives.
-This post aims to share drives that are NTFS formatted and changing the permissions of the mounted drives.
-Method Unmount the drive that is connected already and remount to another folder giving permissions to users.</description>
+      <description>&lt;p&gt;When you have external drives connected to the server, it would be very &lt;strong&gt;useful&lt;/strong&gt; if you can &lt;strong&gt;share these drives&lt;/strong&gt; to &lt;em&gt;users&lt;/em&gt; accessing the server as well. This is useful if you have a home media server with externally connected drives.&lt;/p&gt;&#xA;&lt;p&gt;This post aims to &lt;strong&gt;share drives&lt;/strong&gt; that are NTFS formatted and changing the permissions of the mounted drives.&lt;/p&gt;&#xA;&lt;!-- more --&gt;&#xA;&lt;h3 id=&#34;method&#34;&gt;Method&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Unmount the drive&lt;/strong&gt; that is connected already and &lt;strong&gt;remount&lt;/strong&gt; to another folder giving permissions to users.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

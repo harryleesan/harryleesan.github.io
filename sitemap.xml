@@ -8,10 +8,10 @@
     <loc>https://harrylee.me/categories/</loc>
     <lastmod>2017-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://harrylee.me/tags/git/</loc>
+    <loc>https://harrylee.me/categories/git/</loc>
     <lastmod>2017-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://harrylee.me/categories/git/</loc>
+    <loc>https://harrylee.me/tags/git/</loc>
     <lastmod>2017-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://harrylee.me/blog/2017-05-29-git-simplified-gitflow/</loc>
@@ -26,10 +26,10 @@
     <loc>https://harrylee.me/tags/azure/</loc>
     <lastmod>2016-08-23T16:05:02+00:00</lastmod>
   </url><url>
-    <loc>https://harrylee.me/tags/docker/</loc>
+    <loc>https://harrylee.me/categories/docker/</loc>
     <lastmod>2016-08-30T10:22:23+00:00</lastmod>
   </url><url>
-    <loc>https://harrylee.me/categories/docker/</loc>
+    <loc>https://harrylee.me/tags/docker/</loc>
     <lastmod>2016-08-30T10:22:23+00:00</lastmod>
   </url><url>
     <loc>https://harrylee.me/blog/2016-08-23-docker-docker-swarm-with-docker-machine-quick-setup-guide/</loc>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git on Harry Lee</title>
+    <title>Git on Harry Lee</title>
     <link>https://harrylee.me/tags/git/</link>
-    <description>Recent content in git on Harry Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Git on Harry Lee</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://harrylee.me/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://harrylee.me/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git: Simplified GitFlow</title>
       <link>https://harrylee.me/blog/2017-05-29-git-simplified-gitflow/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://harrylee.me/blog/2017-05-29-git-simplified-gitflow/</guid>
       <description>&lt;p&gt;This post describes a simplified &lt;strong&gt;Git&lt;/strong&gt; branching strategy to software versioning and release. This strategy is a slightly simplified version of &lt;a href=&#34;https://datasift.github.io/gitflow/IntroducingGitFlow.html&#34;&gt;GitFLow&lt;/a&gt;. This strategy does not contradict &lt;strong&gt;GitFlow&lt;/strong&gt; in terms of software development (you can still use &lt;em&gt;feature/*&lt;/em&gt; branches), but rather a slight deviation on the release side of &lt;strong&gt;GitFlow&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
